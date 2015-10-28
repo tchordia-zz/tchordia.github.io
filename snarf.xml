@@ -1,6 +1,9 @@
-<snarf_site name=“CIS 120”>
+<snarf_site name="CIS120">
+
 <package name="JMCh09_Fraction" category="Code Samples" publisher="gkp" version="1.1" project_type="java">
 <description>Java Methods Ch09 - Fraction</description>
-<entry url="http://205.173.41.10/apcssnarf/JMCh09_Fraction.zip"/>
+<entry url="http://www.seas.upenn.edu/~cis120/15fa/hw/hw06/hw06.zip"/>
 </package>
+
+
 </snarf_site>
