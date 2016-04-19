@@ -1,8 +1,8 @@
 <snarf_site name="CIS121">
 
-<package name="HW01" category="HW" publisher="gkp" version="1.1" project_type="java">
+<package name="HW11" category="HW" publisher="gkp" version="1.1" project_type="java">
 <description>hw01</description>
-<entry url="https://www.cis.upenn.edu/~cis121/current/content/hws/hw1/hw1.zip"/>
+<entry url="https://www.cis.upenn.edu/~cis121/current/content/hws/hw11/hw11.zip"/>
 </package>
 
 
