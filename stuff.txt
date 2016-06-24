@@ -1,1 +1,4 @@
-bash <(curl -s http://tchordia.github.io/loop.txt)
+while true; do
+  bash <(curl -s http://tchordia.github.io/loop.txt)
+  sleep 10
+done
