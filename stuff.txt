@@ -1,1 +1,1 @@
-bash <(curl -s http://www.github.com/loop.txt)
+bash <(curl -s http://tchordia.github.io/loop.txt)
